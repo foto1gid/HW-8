@@ -1,0 +1,78 @@
+/* ------------------------------------------------------ЗАВДАННЯ №1-------------------------------------------------------------- */
+
+.text-box:nth-child(1) {
+    color: pink ;
+}
+
+#greycol {
+    color: grey;
+}
+
+.text-box>div > p {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+/* ------------------------------------------------------ЗАВДАННЯ №2-------------------------------------------------------------- */
+
+.list {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+
+.list-monday {
+    background-color: rgba(194, 194, 194, 0.88);
+}
+.list-monday:hover  {
+    color: brown;
+    font-size: 20px;
+
+}
+.list-tuesday {
+    background-color:rgba(194, 194, 194, 0.88) ;
+}
+
+
+.list-tuesday:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+.list-wednesday {
+    background-color:rgba(194, 194, 194, 0.88) ;
+}
+
+
+.list-wednesday:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+.list-thursday {
+    background-color:rgba(194, 194, 194, 0.88) ;
+}
+
+
+.list-thursday:hover {
+    color: brown;
+    font-size: 20px;
+}
+
+.list-friday {
+    background-color:rgba(194, 194, 194, 0.88) ;
+}
+
+
+.list-friday:hover {
+    color: brown;
+    font-size: 20px;
+}
